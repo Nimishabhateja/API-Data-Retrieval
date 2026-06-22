@@ -9,3 +9,14 @@ Through this project, I gained experience in:
 - Designing SQLite databases
 - Performing CRUD operations
 - Executing SQL queries for data retrieval
+
+# Data Processing and Visualization
+This project demonstrates how to retrieve data from a REST API, process it using Python and Pandas, and visualize the results using Matplotlib. A mock REST API was created using Mockaroo to simulate student test score data. The application fetches the data, calculates the average score, and generates a bar chart to visualize student performance.
+
+Through this project, I gained experience in:
+- Consuming REST APIs using Python Requests
+- Working with JSON datasets
+- Data manipulation using Pandas
+- Calculating statistical metrics
+- Creating visualizations with Matplotlib
+- Building end-to-end data analysis workflows
