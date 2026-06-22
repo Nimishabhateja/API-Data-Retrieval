@@ -20,3 +20,12 @@ Through this project, I gained experience in:
 - Calculating statistical metrics
 - Creating visualizations with Matplotlib
 - Building end-to-end data analysis workflows
+
+# CSV Data Import to SQLite Database
+This project demonstrates how to import data from a CSV file into a SQLite database using Python. The script reads user information such as name and email from a CSV file, creates a SQLite database table, inserts the records, and retrieves the stored data using SQL queries.
+
+Through this project, I gained experience in:
+- Connect Python with SQLite
+- Read structured CSV data
+- Insert records into a database
+- Verify stored data using SQL queries
